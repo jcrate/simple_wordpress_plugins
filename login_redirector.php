@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Login Redirector
-Plugin URI: http://www.sefa.com
+Plugin URI: https://github.com/jcrate/simple_wordpress_plugins
 Description: Takes user to their primary site when they log in.
 Author: Jim Crate
 Version: 1.0
-Author URI: http://www.sefa.com
+Author URI: https://github.com/jcrate/simple_wordpress_plugins
 Network: true
 */
 

@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Site URL Migrator
-Plugin URI: http://www.sefa.com
+Plugin URI: https://github.com/jcrate/simple_wordpress_plugins
 Description: Migrates site url stored in options and posts to new site url.
 Author: Jim Crate
 Version: 1.0
-Author URI: http://www.sefa.com
+Author URI: https://github.com/jcrate/simple_wordpress_plugins
 Network: true
 */
 
