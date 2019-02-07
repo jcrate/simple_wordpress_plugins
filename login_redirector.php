@@ -17,7 +17,7 @@ function mulr_allowed_redirect_hosts($content) {
 	foreach ($sites as $site) {
 		$allowed_domains[] = $site->domain;
 	}
-	error_log("allowed_redirect_hosts: ". implode(', ', $allowed_domains));
+	// error_log("allowed_redirect_hosts: ". implode(', ', $allowed_domains));
 	return $allowed_domains;
 }
 add_filter( 'allowed_redirect_hosts' , 'mulr_allowed_redirect_hosts' , 10 );
